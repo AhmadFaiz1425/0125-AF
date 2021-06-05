@@ -2,6 +2,10 @@ G211190125 - Ahmad Faiz Adnan Dhani - USM Jaya
 
 HAI SEMUA
 Universitas Semarang
+<<<<<<< HEAD
 Jl.Soekarno Hatta,Tlogosari Kulon
 Fakultas Teknologi Informasi dan Komunikasi
 Kota Semarang,Jawa Tengah.Indonesia
+=======
+Jl.Soekarno Hatta,Tlogosari Kulon
+>>>>>>> sub-0125-AF
